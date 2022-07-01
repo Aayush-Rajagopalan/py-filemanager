@@ -142,7 +142,7 @@ Project Link: [https://github.com/Aayush-Rajagopalan/py-filemanager](https://git
 [issues-shield]: https://img.shields.io/github/issues/Aayush-Rajagopalan/py-filemanager.svg?style=for-the-badge
 [issues-url]: https://github.com/Aayush-Rajagopalan/py-filemanager/issues
 [license-shield]: https://img.shields.io/github/license/Aayush-Rajagopalan/py-filemanager.svg?style=for-the-badge
-[license-url]: https://github.com/Aayush-Rajagopalan/py-filemanager/blob/master/LICENSE.txt
+[license-url]: https://github.com/Aayush-Rajagopalan/py-filemanager/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: https://cdn.discordapp.com/attachments/834283323450458122/992392836144181288/unknown.png
