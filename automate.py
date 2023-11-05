@@ -13,13 +13,11 @@ sourcefiles = os.listdir(source)
 
 path = os.path.join(source, directory)
 
-
 os.mkdir(path)
 print("Directory Created")
 
 for file in sourcefiles:
-    if file.endswith(ending) :
+    if file.endswith(ending):
         shutil.move(os.path.join(source,file), os.path.join(path,file))
-
 
 print("Files Moved")
